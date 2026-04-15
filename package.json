@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-nass",
+  "version": "0.1.0",
+  "description": "NASS MCP — USDA National Agricultural Statistics Service (Quick Stats)",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "nass"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-nass"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
