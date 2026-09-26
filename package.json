@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nass",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NASS MCP — USDA National Agricultural Statistics Service (Quick Stats)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-338aa9ada5a2006fb7db9cfe8eba2bedcbcdec49ab71f79e52b879293211eefc",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-b14f2d0586949a05047018714bfc9a8bc2f9a3f04059ef3dddaf9d2e370dee0e",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }
